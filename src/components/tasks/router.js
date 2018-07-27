@@ -2,7 +2,7 @@ import Task from './Task.vue'
 
 export default [
     {
-        path: '/my-tasks',
+        path: '/tasks',
         name: 'tasks',
         component: Task,
         meta: {
